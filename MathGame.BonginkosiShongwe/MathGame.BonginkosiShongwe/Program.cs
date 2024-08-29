@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MathGame.BonginkosiShongwe
 {
@@ -79,7 +77,6 @@ namespace MathGame.BonginkosiShongwe
                         Console.ReadKey(true);
                         break;
                     }
-                //break;
                 default:
                     Console.WriteLine("Incorrect option!");
                     break;
